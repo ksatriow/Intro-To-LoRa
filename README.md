@@ -5,7 +5,7 @@ This project allows you to practice LoRa for all **Microcontroller**. It can be 
 
 It has been written **100% in C**. ❤️
 
-![](/raw/banner.png)
+![](/assets/Lora Dateway and Client.jpg)
 
 # Table of Contents
 * [Resource](#resource)
